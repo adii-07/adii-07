@@ -4,7 +4,7 @@
 - My first project was a tablet-based application for one of the leading private banks in India. I worked with a backend team and was responsible for creating APIs in Java SpringBoot. It had a microservice   
   architecture hence involved connecting multiple services as well as to third-party APIs. Also implemented Apache Kafka as a retry mechanism.
 - Currently, I'm working on an Internal Research Tool which is based on Generative AI. This tool involves the automatic generation and completion of various SDLC processes to improve the developer's productivity. 
-  I'm responsible for creating a backend using Python, langchain. Using prompt engineering to ensure correct output is generated. 
+  I'm responsible for creating a backend using Python, and langchain. Using prompt engineering to ensure correct output is generated. 
 - My interest is in software development with a touch of Artificial Intelligence and Machine Learning.
   
 
